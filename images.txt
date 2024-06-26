@@ -6,4 +6,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 #ydlhero/chatgpt-web-midjourney-proxy
 #openmmlab/lmdeploy-builder:cuda11.8
-langhuihui/monibuca:latest
+#langhuihui/monibuca:latest
+nvcr.io/nvidia/tritonserver:22.12-py3
