@@ -9,8 +9,9 @@ nginx
 #langhuihui/monibuca:latest
 #nvcr.io/nvidia/tritonserver:22.12-py3
 #ydlhero/chatgpt-web-midjourney-proxy:v2.18.10
-docker.getcollate.io/openmetadata/ingestion:1.4.4
-docker.getcollate.io/openmetadata/db:1.4.4
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+#docker.getcollate.io/openmetadata/ingestion:1.4.4
+#docker.getcollate.io/openmetadata/db:1.4.4
+#docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+#docker.getcollate.io/openmetadata/server:1.4.4
+#docker.getcollate.io/openmetadata/ingestion:1.4.4
 docker.getcollate.io/openmetadata/server:1.4.4
-docker.getcollate.io/openmetadata/ingestion:1.4.4
