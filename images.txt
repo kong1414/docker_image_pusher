@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -15,4 +15,5 @@ nginx
 #docker.getcollate.io/openmetadata/server:1.4.4
 #docker.getcollate.io/openmetadata/ingestion:1.4.4
 #docker.getcollate.io/openmetadata/server:1.4.4
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+docker pull yidadaa/chatgpt-next-web:v2.13.0
