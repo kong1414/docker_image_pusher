@@ -14,4 +14,5 @@ nginx
 #docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 #docker.getcollate.io/openmetadata/server:1.4.4
 #docker.getcollate.io/openmetadata/ingestion:1.4.4
-docker.getcollate.io/openmetadata/server:1.4.4
+#docker.getcollate.io/openmetadata/server:1.4.4
+ghcr.io/open-webui/open-webui:main
