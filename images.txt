@@ -24,4 +24,5 @@
 #ankane/pgvector:latest
 #ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
 
-elasticsearch:7.17.22
+#elasticsearch:7.17.22
+xprobe/xinference:v0.13.2
