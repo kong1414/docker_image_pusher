@@ -26,7 +26,7 @@
 
 #elasticsearch:7.17.22
 #xprobe/xinference:v0.13.3
-xprobe/xinference:v0.13.3-cpu
+#xprobe/xinference:v0.13.3-cpu
 
 #milvusdb/milvus:v2.4.6-gpu
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
@@ -34,4 +34,4 @@ xprobe/xinference:v0.13.3-cpu
 #milvusdb/milvus:v2.4.6-gpu
 #milvusdb/milvus:v2.4.6
 #sonatype/nexus3:3.70.1
-#zilliz/attu:v2.4
+zilliz/attu:v2.4.6
