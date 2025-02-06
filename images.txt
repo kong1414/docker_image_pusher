@@ -35,3 +35,4 @@
 #sonatype/nexus3:3.70.1
 #zilliz/attu:v2.4.6
 ydlhero/chatgpt-web-midjourney-proxy:v2.23.2
+ghcr.io/open-webui/open-webui:main
