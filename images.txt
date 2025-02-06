@@ -4,7 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#ydlhero/chatgpt-web-midjourney-proxy:v2.18.10
 #openmmlab/lmdeploy-builder:cuda11.8
 #langhuihui/monibuca:latest
 #nvcr.io/nvidia/tritonserver:22.12-py3
@@ -34,4 +33,5 @@
 #milvusdb/milvus:v2.4.6-gpu
 #milvusdb/milvus:v2.4.6
 #sonatype/nexus3:3.70.1
-zilliz/attu:v2.4.6
+#zilliz/attu:v2.4.6
+ydlhero/chatgpt-web-midjourney-proxy:v2.23.2
