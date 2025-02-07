@@ -41,4 +41,5 @@
 #langgenius/dify-sandbox:0.2.10
 #milvusdb/milvus:v2.5.0-beta
 
-ollama/ollama:0.5.7
+#ollama/ollama:0.5.7
+mintplexlabs/anythingllm
