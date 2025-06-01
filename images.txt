@@ -44,8 +44,8 @@
 #ollama/ollama:0.5.7
 #mintplexlabs/anythingllm
 #guiji2025/fun-asr
-guiji2025/fish-speech-ziming
-#guiji2025/heygem.ai
+#guiji2025/fish-speech-ziming
+guiji2025/heygem.ai
 
 #haxqer/confluence:8.5.19
 
